@@ -23,7 +23,7 @@
     <tr>
       <td align="center" width="25%">
         <img src="https://img.shields.io/badge/Daily%20Streak-300%20Days%20🔥-00F2FE?style=for-the-badge&logo=github&logoColor=white" /><br/><br/>
-        <b>300/300 Days (100% Green)</b><br/>
+        <b>300/300 Days </b><br/>
         <sub>Unbroken 2026 Commit Streak</sub>
       </td>
       <td align="center" width="25%">
