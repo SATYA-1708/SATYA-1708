@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,22&height=220&section=header&text=Satya%20B.&fontSize=50&fontAlignY=36&desc=Full-Stack%20Engineer%20%7C%20Cloud%20Systems%20%7C%20Applied%20AI&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+  <!-- Animated Dynamic Gradient Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,15,24,30&height=230&section=header&text=Satya%20Sunkara&fontSize=52&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20Applied%20AI&descAlignY=58&descSize=18" width="100%" alt="Satya Sunkara's Banner" />
 
   <br/>
 
-  <!-- Interactive Badges & Views Counter -->
+  <!-- Status / Credentials Badges -->
   <p align="center">
     <a href="mailto:bhagavansunkara12@gmail.com"><img src="https://img.shields.io/badge/Email-bhagavansunkara12%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/SATYA-1708"><img src="https://img.shields.io/badge/GitHub-SATYA--1708-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -13,27 +13,28 @@
   </p>
 
   <p align="center">
-    <em>🎓 B.Tech Computer Science Engineering (Class of 2028) &bull; 📍 India</em>
+    <strong>🎓 B.Tech in Computer Science Engineering (Class of 2028) &bull; 📍 India</strong>
   </p>
 
 </div>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-```yaml
-Developer:
-  Name: Satya
-  Education: B.Tech in Computer Science Engineering (2024 - 2028)
-  Passions: Full-Stack Architecture, Distributed Backends, Scalable APIs
-  Current Focus: Enterprise Spring Boot 3, React SPAs, Relational Systems, AI Integrations
-  Philosophy: "Write clean code, build resilient systems, optimize user experience."
+```typescript
+interface SoftwareEngineer {
+  name: "Satya Sunkara";
+  education: "B.Tech Computer Science Engineering (2024 - 2028)";
+  primaryFocus: ["Enterprise Spring Boot Systems", "High-Performance REST APIs", "Modern React SPAs"];
+  architectureStyle: "Clean Architecture, Type Safety, Domain-Driven Design, Relational Data Integrity";
+  philosophy: "Build reliable systems, design clean interfaces, write self-documenting code.";
+}
 ```
 
 ---
 
-### 💻 Technologies & Ecosystem
+### 🛠 Tech Stack & Ecosystem
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,express,react,vite,ts,js,html,css,tailwind,postgres,mysql,mongodb,supabase,docker,git,github,postman&perline=11" alt="Tech Stack Icons" />
@@ -47,7 +48,7 @@ Developer:
       <h4>☕ Backend & Cloud</h4>
       <ul>
         <li><strong>Java 17+</strong> &bull; Spring Boot 3</li>
-        <li>Spring Data JPA &bull; Hibernate</li>
+        <li>Spring Data JPA &bull; Hibernate ORM</li>
         <li><strong>Python</strong> &bull; FastAPI</li>
         <li>Node.js &bull; Express.js</li>
         <li>RESTful API Architecture</li>
@@ -57,20 +58,20 @@ Developer:
       <h4>⚛️ Frontend & UI</h4>
       <ul>
         <li><strong>React 18</strong> &bull; Vite</li>
-        <li>TypeScript &bull; JavaScript ES6+</li>
-        <li>Tailwind CSS</li>
+        <li>TypeScript &bull; Modern JavaScript</li>
+        <li>Tailwind CSS &bull; Lucide Icons</li>
         <li>Single Page Applications (SPA)</li>
-        <li>Responsive Dashboard Design</li>
+        <li>Component State Management</li>
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h4>🗄 Databases & Tools</h4>
+      <h4>🗄 Databases & DevOps</h4>
       <ul>
         <li><strong>MySQL 8.0</strong> &bull; PostgreSQL</li>
         <li>MongoDB &bull; Supabase</li>
         <li>Docker &bull; Postman</li>
         <li>Git &bull; GitHub Actions</li>
-        <li>Apache Maven</li>
+        <li>Apache Maven &bull; Linux / Bash</li>
       </ul>
     </td>
   </tr>
@@ -78,7 +79,7 @@ Developer:
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Featured Repositories
 
 <table>
   <tr>
@@ -156,9 +157,10 @@ Developer:
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,22&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <!-- Matching Footer Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,15,24,30&height=100&section=footer" width="100%" alt="Footer Banner" />
 
-  <p><em>Crafting software that makes a difference &bull; Open to collaborations and full-stack challenges</em></p>
-  <p>💬 Reach out via <a href="mailto:bhagavansunkara12@gmail.com"><strong>Email</strong></a> or check out my repositories above!</p>
+  <p><em>"Always building, always optimizing &bull; Open to collaborations and high-impact engineering challenges"</em></p>
+  <p>💬 Reach out via <a href="mailto:bhagavansunkara12@gmail.com"><strong>Email</strong></a> or explore my repositories above!</p>
 
 </div>
