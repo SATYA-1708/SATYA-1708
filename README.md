@@ -1,100 +1,164 @@
 <div align="center">
 
-# Satya
-**Computer Science Engineering Undergraduate (Class of 2028)**  
-*Full-Stack Engineer &bull; Cloud Backend Architectures &bull; Applied AI*
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,22&height=220&section=header&text=Satya%20B.&fontSize=50&fontAlignY=36&desc=Full-Stack%20Engineer%20%7C%20Cloud%20Systems%20%7C%20Applied%20AI&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
 
-[![Email](https://img.shields.io/badge/Email-bhagavansunkara12%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bhagavansunkara12@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-SATYA--1708-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SATYA-1708)
+  <br/>
 
----
+  <!-- Interactive Badges & Views Counter -->
+  <p align="center">
+    <a href="mailto:bhagavansunkara12@gmail.com"><img src="https://img.shields.io/badge/Email-bhagavansunkara12%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/SATYA-1708"><img src="https://img.shields.io/badge/GitHub-SATYA--1708-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <img src="https://komarev.com/ghpvc/?username=SATYA-1708&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+  </p>
+
+  <p align="center">
+    <em>🎓 B.Tech Computer Science Engineering (Class of 2028) &bull; 📍 India</em>
+  </p>
 
 </div>
 
-### 📌 Overview
-I am a Computer Science Engineering student focused on building robust, scalable full-stack applications, clean RESTful architectures, and reliable data-driven systems. My work spans enterprise Java & Spring Boot backend services, modern React SPAs, high-performance Python APIs, and distributed database models.
+---
+
+### 🚀 About Me
+
+```yaml
+Developer:
+  Name: Satya
+  Education: B.Tech in Computer Science Engineering (2024 - 2028)
+  Passions: Full-Stack Architecture, Distributed Backends, Scalable APIs
+  Current Focus: Enterprise Spring Boot 3, React SPAs, Relational Systems, AI Integrations
+  Philosophy: "Write clean code, build resilient systems, optimize user experience."
+```
 
 ---
 
-### 🛠 Technical Competencies
+### 💻 Technologies & Ecosystem
 
-- **Languages:** Java (17+), Python, TypeScript, JavaScript (ES6+), C++, SQL
-- **Backend & APIs:** Spring Boot 3, Spring Data JPA, Hibernate ORM, FastAPI, Node.js, Express.js, RESTful API Design
-- **Frontend:** React 18, Vite, Tailwind CSS, HTML5, CSS3, Component State Management
-- **Databases & Storage:** MySQL, PostgreSQL, MongoDB, Supabase
-- **Tools & Environments:** Git, GitHub, Maven, Docker, Postman, Linux / Bash
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,express,react,vite,ts,js,html,css,tailwind,postgres,mysql,mongodb,supabase,docker,git,github,postman&perline=11" alt="Tech Stack Icons" />
+</div>
 
----
-
-### 🚀 Selected Repositories
+<br/>
 
 <table>
-  <thead>
-    <tr>
-      <th width="50%">Project</th>
-      <th width="50%">Stack & Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github.com/SATYA-1708/StudentManagement"><strong>Student Management System</strong></a>
-      </td>
-      <td>
-        Production-grade student records API & SPA dashboard. Complete CRUD operations, bean validation constraints, centralized exception handling (<code>404</code>, <code>409</code>, <code>400</code>), and verified with Postman test suites.<br/>
-        <sub><code>Java 17</code> &bull; <code>Spring Boot 3</code> &bull; <code>Spring Data JPA</code> &bull; <code>MySQL 8</code> &bull; <code>React</code> &bull; <code>Postman</code></sub>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/SATYA-1708/AquaShift"><strong>AquaShift</strong></a>
-      </td>
-      <td>
-        Agricultural decision-support system featuring geospatial crop planning, predictive irrigation analytics, and dynamic weather integration.<br/>
-        <sub><code>Python</code> &bull; <code>FastAPI</code> &bull; <code>React</code> &bull; <code>Leaflet Maps</code> &bull; <code>Analytics</code></sub>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/SATYA-1708/Railway"><strong>RailFlow AI</strong></a>
-      </td>
-      <td>
-        Rail traffic intelligence & operations prototype combining predictive delay estimation workflows, real-time timetable adapters, and operational dashboard.<br/>
-        <sub><code>Python</code> &bull; <code>Machine Learning</code> &bull; <code>FastAPI</code> &bull; <code>React</code></sub>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/SATYA-1708/E-commerce-Jewellary"><strong>Jewellery E-Commerce</strong></a>
-      </td>
-      <td>
-        Full-stack digital storefront with relational product catalog, cart workflows, user authentication, and checkout simulation.<br/>
-        <sub><code>TypeScript</code> &bull; <code>React</code> &bull; <code>Supabase</code> &bull; <code>PostgreSQL</code></sub>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/SATYA-1708/MahaKisan"><strong>MahaKisan</strong></a>
-      </td>
-      <td>
-        Agritech crop surveillance tool providing agricultural risk scoring and outbreak tracking for regional farm management.<br/>
-        <sub><code>Python</code> &bull; <code>React</code> &bull; <code>Data Science</code> &bull; <code>REST APIs</code></sub>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/SATYA-1708/SIH-2026"><strong>E-Waste Setu</strong></a>
-      </td>
-      <td>
-        Smart India Hackathon project connecting electronic waste producers to authorized recyclers through verified lifecycle tracking.<br/>
-        <sub><code>Full-Stack</code> &bull; <code>Workflow Automation</code> &bull; <code>SIH Hackathon</code></sub>
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>☕ Backend & Cloud</h4>
+      <ul>
+        <li><strong>Java 17+</strong> &bull; Spring Boot 3</li>
+        <li>Spring Data JPA &bull; Hibernate</li>
+        <li><strong>Python</strong> &bull; FastAPI</li>
+        <li>Node.js &bull; Express.js</li>
+        <li>RESTful API Architecture</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4>⚛️ Frontend & UI</h4>
+      <ul>
+        <li><strong>React 18</strong> &bull; Vite</li>
+        <li>TypeScript &bull; JavaScript ES6+</li>
+        <li>Tailwind CSS</li>
+        <li>Single Page Applications (SPA)</li>
+        <li>Responsive Dashboard Design</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🗄 Databases & Tools</h4>
+      <ul>
+        <li><strong>MySQL 8.0</strong> &bull; PostgreSQL</li>
+        <li>MongoDB &bull; Supabase</li>
+        <li>Docker &bull; Postman</li>
+        <li>Git &bull; GitHub Actions</li>
+        <li>Apache Maven</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
 
-### 📬 Connect
-- **Email:** [bhagavansunkara12@gmail.com](mailto:bhagavansunkara12@gmail.com)
-- **GitHub:** [@SATYA-1708](https://github.com/SATYA-1708)
+### 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SATYA-1708/StudentManagement">🎓 Student Management System</a></h3>
+      <p>Production-grade enterprise RESTful API & Single Page Application (SPA). Built with <strong>Spring Boot 3</strong>, <strong>Spring Data JPA</strong>, and <strong>MySQL 8.0</strong> paired with a responsive <strong>React 18</strong> dashboard. Features complete CRUD workflows, bean validations, custom exception handling (<code>404</code>, <code>409</code>, <code>400</code>), and verified Postman test suites.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SATYA-1708/AquaShift">🌱 AquaShift</a></h3>
+      <p>Intelligent agricultural decision-support platform designed for geospatial crop planning, predictive irrigation analytics, and dynamic meteorological service integration.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SATYA-1708/Railway">🚆 RailFlow AI</a></h3>
+      <p>Smart rail traffic operations and scheduling intelligence engine combining Python machine learning services, real-time timetable integration, and an interactive operational dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SATYA-1708/E-commerce-Jewellary">💎 Jewellery E-Commerce</a></h3>
+      <p>Full-stack modern digital storefront featuring relational catalog querying, shopping cart workflows, user authentication, and secure checkout simulation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SATYA-1708/MahaKisan">🌾 MahaKisan</a></h3>
+      <p>Agritech crop surveillance tool providing agricultural risk scoring, outbreak tracking, and predictive advisories for regional farm management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Data_Science-013243?style=flat-square" />
+        <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SATYA-1708/SIH-2026">♻️ E-Waste Setu</a></h3>
+      <p>Smart India Hackathon project connecting electronic waste producers to verified recyclers through lifecycle tracking and automated dispatch workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Hackathon-SIH_2026-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/Full_Stack-000000?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💡 Daily Dev Inspiration
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="85%" />
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,22&height=100&section=footer" width="100%" alt="Footer Banner" />
+
+  <p><em>Crafting software that makes a difference &bull; Open to collaborations and full-stack challenges</em></p>
+  <p>💬 Reach out via <a href="mailto:bhagavansunkara12@gmail.com"><strong>Email</strong></a> or check out my repositories above!</p>
+
+</div>
