@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Satya — software engineering portfolio</title>
+  <desc id="desc">A dark navy and teal portfolio banner with abstract interface panels, network nodes, and the text Ideas into useful software.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#091321"/>
+      <stop offset="0.55" stop-color="#10243a"/>
+      <stop offset="1" stop-color="#123a43"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#6ee7b7"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#172b42" stop-opacity=".96"/>
+      <stop offset="1" stop-color="#0d1c2d" stop-opacity=".96"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#b6d7e0" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <circle cx="1050" cy="60" r="170" fill="#2dd4bf" opacity=".08"/>
+  <circle cx="980" cy="300" r="210" fill="#38bdf8" opacity=".07"/>
+  <path d="M0 314C195 250 285 351 468 291S764 232 919 286s188 42 281 7" fill="none" stroke="url(#accent)" stroke-opacity=".3" stroke-width="2"/>
+  <path d="M0 330C206 266 304 367 484 307s289-57 438-5 187 47 278 12" fill="none" stroke="#a5f3fc" stroke-opacity=".12" stroke-width="1"/>
+  <rect x="70" y="62" width="8" height="8" rx="4" fill="#6ee7b7"/>
+  <text x="94" y="71" fill="#a9c8d2" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="3">SATYA  /  SOFTWARE ENGINEERING</text>
+  <text x="70" y="153" fill="#f4fbff" font-family="Segoe UI,Arial,sans-serif" font-size="61" font-weight="700" letter-spacing="-2">Ideas into</text>
+  <text x="70" y="222" fill="#f4fbff" font-family="Segoe UI,Arial,sans-serif" font-size="61" font-weight="700" letter-spacing="-2">useful software.</text>
+  <text x="74" y="266" fill="#b7ccd8" font-family="Segoe UI,Arial,sans-serif" font-size="19">Computer Science  ·  Full-stack products  ·  Applied AI</text>
+  <rect x="74" y="294" width="102" height="31" rx="15.5" fill="#153b4a" stroke="#4dd0c1" stroke-opacity=".55"/>
+  <text x="125" y="315" text-anchor="middle" fill="#bff7ee" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">BUILD</text>
+  <rect x="187" y="294" width="119" height="31" rx="15.5" fill="#17364b" stroke="#60c9e8" stroke-opacity=".5"/>
+  <text x="246.5" y="315" text-anchor="middle" fill="#c9f1fb" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">LEARN</text>
+  <rect x="317" y="294" width="124" height="31" rx="15.5" fill="#20364a" stroke="#9cb9d0" stroke-opacity=".4"/>
+  <text x="379" y="315" text-anchor="middle" fill="#d6e2ec" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">ITERATE</text>
+  <g transform="translate(746 70)">
+    <rect width="372" height="218" rx="17" fill="url(#panel)" stroke="#a9d5e0" stroke-opacity=".23"/>
+    <path d="M0 49H372" stroke="#a9d5e0" stroke-opacity=".16"/>
+    <circle cx="24" cy="25" r="5" fill="#fb7185"/>
+    <circle cx="43" cy="25" r="5" fill="#fbbf24"/>
+    <circle cx="62" cy="25" r="5" fill="#6ee7b7"/>
+    <text x="93" y="30" fill="#8fa9bc" font-family="Consolas,monospace" font-size="12">portfolio / build.log</text>
+    <text x="27" y="88" fill="#8aa6bd" font-family="Consolas,monospace" font-size="14">01</text>
+    <text x="62" y="88" fill="#a5f3fc" font-family="Consolas,monospace" font-size="15">const</text>
+    <text x="111" y="88" fill="#d7e8f4" font-family="Consolas,monospace" font-size="15">idea = curiosity;</text>
+    <text x="27" y="121" fill="#8aa6bd" font-family="Consolas,monospace" font-size="14">02</text>
+    <text x="62" y="121" fill="#c4b5fd" font-family="Consolas,monospace" font-size="15">while</text>
+    <text x="109" y="121" fill="#d7e8f4" font-family="Consolas,monospace" font-size="15">(learning) { build(); }</text>
+    <text x="27" y="154" fill="#8aa6bd" font-family="Consolas,monospace" font-size="14">03</text>
+    <text x="62" y="154" fill="#6ee7b7" font-family="Consolas,monospace" font-size="15">return</text>
+    <text x="119" y="154" fill="#d7e8f4" font-family="Consolas,monospace" font-size="15">something useful;</text>
+    <rect x="27" y="177" width="8" height="17" rx="2" fill="#67e8f9" filter="url(#glow)"/>
+  </g>
+  <g fill="#8ce8e0" filter="url(#glow)">
+    <circle cx="1149" cy="102" r="3"/><circle cx="1172" cy="146" r="2.5"/>
+    <circle cx="1128" cy="326" r="3"/><circle cx="715" cy="283" r="2.5"/>
+  </g>
+</svg>
