@@ -106,22 +106,27 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 Real-Time GitHub Activity & Metrics
 
 <div align="center">
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SATYA-1708&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Satya's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SATYA-1708&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <!-- Live GitHub Stats: Real-time queries to GitHub GraphQL API -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SATYA-1708&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Satya's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SATYA-1708&layout=compact&theme=tokyonight&hide_border=true" width="47%" alt="Top Languages" />
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SATYA-1708&theme=tokyonight&hide_border=true" width="96%" alt="GitHub Streak" />
+  <!-- Live Streak Stats: Updates automatically with every commit -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SATYA-1708&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
 
   <br/><br/>
 
-  <a href="https://github.com/SATYA-1708">
-    <img src="./assets/contribution-activity.svg" alt="GitHub Contribution Graph" width="96%" />
-  </a>
+  <!-- Live Dynamic Contribution Snake: Auto-rendered from your live contribution graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SATYA-1708/SATYA-1708/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SATYA-1708/SATYA-1708/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/SATYA-1708/SATYA-1708/output/github-contribution-grid-snake-dark.svg" width="97%">
+  </picture>
 
 </div>
 
