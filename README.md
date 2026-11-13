@@ -1,150 +1,69 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,26&height=220&section=header&text=Hi,%20I'm%20Satya%20👋&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Systems%20Architect&descSize=20&descAlignY=62&descColor=00f2fe&animation=twinkling" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:111827,55:172554,100:0f766e&text=Satya&fontColor=ffffff&fontSize=58&fontAlignY=45&desc=Computer%20Science%20%7C%20Full-stack%20projects%20%7C%20Applied%20AI&descAlignY=75&descSize=17" alt="Satya — Computer Science, full-stack projects, applied AI" width="100%" />
+
+### I build software that connects useful interfaces to real workflows.
+
+**B.Tech Computer Science Engineering · Class of 2028**
+
+[![GitHub](https://img.shields.io/badge/GitHub-SATYA--1708-111827?style=flat&logo=github)](https://github.com/SATYA-1708)
+[![Email](https://img.shields.io/badge/Email-Contact-0f766e?style=flat&logo=gmail&logoColor=white)](mailto:bhagavansunkara12@gmail.com)
+
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Full-Stack+Web+%26+Mobile+Engineer;AI+%26+Multi-Agent+Workflows+Developer;Crafting+Production-Ready+Architectures;Building+Scalable+Cloud+Solutions" alt="Typing SVG" />
-  </a>
-</div>
+---
+
+## About
+
+I’m a computer science engineering student interested in building full-stack applications, API-backed products, and data-informed tools. My repositories include React and TypeScript interfaces, Python services, Java coursework, and projects that connect maps, analytics, and external services.
+
+I value clear interfaces, useful documentation, and systems that are understandable from the first request to the stored data.
+
+## Selected work
+
+| Project | What you’ll find |
+| --- | --- |
+| [AquaShift](https://github.com/SATYA-1708/AquaShift) | FastAPI and React agricultural decision-support prototype with geospatial and crop-planning workflows. |
+| [Railway](https://github.com/SATYA-1708/Railway) | Train operations prototype combining a React interface, Python API, and ETA prediction workflow. |
+| [MahaKisan](https://github.com/SATYA-1708/MahaKisan) | Crop surveillance and risk-assessment project with Python services and a React frontend. |
+| [E-commerce-Jewellary](https://github.com/SATYA-1708/E-commerce-Jewellary) | TypeScript storefront with Supabase schema and server-side payment handlers. |
+| [SIH-2026](https://github.com/SATYA-1708/SIH-2026) | E-waste recycling prototype and Smart India Hackathon project materials. |
+| [TECHSPARKX](https://github.com/SATYA-1708/TECHSPARKX) | Client and server code for a service marketplace concept. |
+
+## Tools used in my projects
 
 <p align="center">
-  <a href="mailto:bhagavansunkara12@gmail.com"><img src="https://img.shields.io/badge/Email-bhagavansunkara12%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/SATYA-1708"><img src="https://img.shields.io/badge/GitHub-SATYA--1708-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://img.shields.io/badge/Status-Building%20High--Impact%20Software%20🚀-00C9C8?style=for-the-badge" alt="Status"/>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,python,fastapi,java,spring,cpp,postgres,mongodb,supabase,docker&theme=dark" alt="React, TypeScript, JavaScript, Node.js, Express, Python, FastAPI, Java, Spring, C++, PostgreSQL, MongoDB, Supabase, Docker" />
 </p>
 
----
+The icons reflect technologies present in my repositories; they do not imply equal depth or professional experience with each tool.
 
-### ⚡ 2026 Engineering Highlights
+## Current interests
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Daily%20Streak-300%20Days%20🔥-00F2FE?style=for-the-badge&logo=github&logoColor=white" /><br/><br/>
-        <b>300/300 Days </b><br/>
-        <sub>Unbroken 2026 Commit Streak</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Total%20Commits-670%2B%20Pushed-10B981?style=for-the-badge&logo=git&logoColor=white" /><br/><br/>
-        <b>670+ Production Commits</b><br/>
-        <sub>Continuous feature development</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Shipped%20Repos-12%2B%20Projects-6366F1?style=for-the-badge&logo=rocket&logoColor=white" /><br/><br/>
-        <b>12+ Production Systems</b><br/>
-        <sub>Full-stack, AI, & enterprise apps</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Core%20Focus-AI%20%26%20Cloud-F59E0B?style=for-the-badge&logo=probot&logoColor=white" /><br/><br/>
-        <b>AI & Distributed Systems</b><br/>
-        <sub>Multi-agent workflow orchestration</sub>
-      </td>
-    </tr>
-  </table>
-</div>
+- Designing maintainable APIs and full-stack application boundaries
+- Geospatial and data-informed decision-support interfaces
+- Practical AI integrations and workflow tools
+- Authentication, data handling, and deployment configuration
 
----
+## GitHub activity
 
-### 👨‍💻 About Me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SATYA-1708&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics for SATYA-1708" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATYA-1708&layout=compact&hide_border=true&theme=transparent" alt="Most-used languages across public repositories" height="165" />
+</p>
 
-```javascript
-const satya = {
-  name: "Satya",
-  title: "Full-Stack Software Engineer & AI Systems Architect",
-  code: ["TypeScript", "JavaScript", "Python", "Java", "C++", "SQL"],
-  technologies: {
-    frontend: ["React", "Next.js", "TailwindCSS", "Vite", "SCSS", "Framer Motion"],
-    backend: ["Node.js", "Express", "FastAPI", "Django", "Spring Boot"],
-    database: ["PostgreSQL", "MongoDB", "Prisma", "Supabase", "Redis"],
-    devOps: ["Docker", "Git", "GitHub Actions", "Linux", "Vercel"]
-  },
-  architecture: ["Microservices", "Event-Driven", "REST APIs", "Multi-Agent AI Workflows"],
-  currentFocus: "Architecting autonomous AI workflow engines & scalable cloud architectures",
-  consistency: "300 Days Unbroken Engineering Streak in 2026 🔥"
-};
-```
-
----
-
-### 🛠️ Tech Stack & Tooling
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,react,nextjs,vite,tailwind,sass,nodejs,express,fastapi,django,spring,postgres,mongodb,prisma,supabase,docker,git,linux&perline=11&theme=dark" alt="Tech Stack Icons" />
+<p align="center">
+  <a href="https://github.com/SATYA-1708?tab=overview&from=2026-01-01&to=2026-12-31">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SATYA-1708&hide_border=true&theme=github-compact&area=true" alt="Contribution activity graph" width="96%" />
   </a>
-</div>
+</p>
 
----
-
-### 🚀 Featured Engineering Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 <a href="https://github.com/SATYA-1708/ai-automation-system">AI Automation System</a></h3>
-      <p align="center">
-        Enterprise autonomous multi-agent AI workflow engine featuring background task queues, custom agent skills, telemetry, and operations dashboard.
-      </p>
-      <p align="center">
-        <code>FastAPI</code> • <code>React</code> • <code>Python</code> • <code>Multi-Agent</code>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎓 <a href="https://github.com/SATYA-1708/achivios">Achivios</a></h3>
-      <p align="center">
-        Gamified interactive EdTech & AI mock interview platform with speech feedback, spaced-repetition study decks, leagues, and reward coins.
-      </p>
-      <p align="center">
-        <code>React</code> • <code>Vite</code> • <code>Django REST</code> • <code>Tailwind</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🚚 <a href="https://github.com/SATYA-1708/logistics-management">Logistics Management</a></h3>
-      <p align="center">
-        Enterprise freight & fleet operations platform with driver mobile check-in telemetry, automated route dispatching, and customer billing.
-      </p>
-      <p align="center">
-        <code>Node.js</code> • <code>Express</code> • <code>React</code> • <code>TypeScript</code>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏨 <a href="https://github.com/SATYA-1708/hotel-booking-platform">Hotel Booking Platform</a></h3>
-      <p align="center">
-        End-to-end hotel room reservation engine with live room availability calendars, payment pipelines, and admin inventory controls.
-      </p>
-      <p align="center">
-        <code>React</code> • <code>TypeScript</code> • <code>Express</code> • <code>MongoDB</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏥 <a href="https://github.com/SATYA-1708/hospital-management-system">Hospital Operations Suite</a></h3>
-      <p align="center">
-        Healthcare system integrating doctor consultation scheduling, patient medical history records, and administrative ward management.
-      </p>
-      <p align="center">
-        <code>React</code> • <code>Node.js</code> • <code>REST API</code> • <code>MongoDB</code>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">♻️ <a href="https://github.com/SATYA-1708/kabadiwala-recycling">KabadiWala Recycling</a></h3>
-      <p align="center">
-        Smart waste management platform enabling doorstep scrap pickup, scrap value calculators, and AI recycling image classification.
-      </p>
-      <p align="center">
-        <code>Prisma</code> • <code>Node.js</code> • <code>Python AI</code> • <code>PWA</code>
-      </p>
-    </td>
-  </tr>
-</table>
+<sub>Statistics and activity charts are generated from GitHub data by external services and may be temporarily unavailable.</sub>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,14,6&height=100&section=footer" width="100%"/>
+
+**Thanks for stopping by.** Explore a project, open an issue, or [get in touch](mailto:bhagavansunkara12@gmail.com).
+
 </div>
