@@ -147,14 +147,6 @@ interface SoftwareEngineer {
 
 ---
 
-### 💡 Daily Dev Inspiration
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="85%" />
-</div>
-
-<br/>
-
 <div align="center">
 
   <!-- Matching Footer Wave -->
