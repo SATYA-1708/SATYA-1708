@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Satya — ideas into useful software" width="100%" />
+<img src="./assets/profile-banner.png" alt="Abstract campus, geospatial and analytics artwork for Satya’s profile" width="100%" />
 
-**B.Tech Computer Science Engineering · Class of 2028**
+<h1>Satya</h1>
+<p><strong>B.Tech Computer Science Engineering · Class of 2028</strong><br/>Full-stack projects · Applied AI · Data-informed tools</p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-SATYA--1708-111827?style=flat&logo=github)](https://github.com/SATYA-1708)
 [![Email](https://img.shields.io/badge/Email-Contact-0f766e?style=flat&logo=gmail&logoColor=white)](mailto:bhagavansunkara12@gmail.com)
@@ -85,17 +86,17 @@ These icons represent technologies present in my repositories; they do not imply
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SATYA-1708&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATYA-1708&layout=compact&hide_border=true&theme=tokyonight" alt="Languages used in public repositories" height="165" />
+<a href="https://github.com/SATYA-1708">
+  <img src="./assets/contribution-activity.svg" alt="GitHub contributions in 2026 through November 13" width="100%" />
+</a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SATYA-1708&hide_border=true&theme=tokyo-night&area=true" alt="GitHub contribution activity graph" width="96%" />
+<a href="https://github.com/SATYA-1708">View live contribution activity on GitHub</a>
 
 </div>
 
-<sub>Charts are generated from GitHub activity by external services and may occasionally be unavailable.</sub>
+<sub>The chart is a dated snapshot of GitHub's contribution calendar. Use the link above for live activity.</sub>
 
 ---
-
 <div align="center">
 
 **Thanks for visiting.** Explore a project or [get in touch](mailto:bhagavansunkara12@gmail.com).
